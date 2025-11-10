@@ -1,3 +1,3 @@
 # dotfiles
 
-My Dotfiles
+Streamlining Device Recovery

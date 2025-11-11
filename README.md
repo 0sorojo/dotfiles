@@ -14,3 +14,4 @@ Streamlining Device Recovery
     - tap to tap
 - .zshrc
 - Git (config and SSH)
+- Homebrew Installation

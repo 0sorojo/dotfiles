@@ -11,5 +11,9 @@
 - create:
     - ~/Work
 
-# - shell:
+- shell:
 #  - [git submodule update --init --recursive, Installing submodules]
+   -
+     command: echo "You have successfully run the dotbot Config"
+     stdout: true
+     stderr: true

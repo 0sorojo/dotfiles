@@ -2,6 +2,10 @@
 
 Streamlining Device Recovery
 
+## Notes
+
+- if brewfile.lock.json is needed run **brew bundle install**
+
 ## TODO
 
 - Terminal Preferences
@@ -12,7 +16,4 @@ Streamlining Device Recovery
 - Trackpad Settings
     - double tap to grab
     - tap to tap
-- .zshrc
 - Git (config and SSH)
-- Homebrew Installation
-- if brewfile.lock.json is needed run **brew bundle install**

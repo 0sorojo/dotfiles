@@ -7,5 +7,6 @@ echo "\n<<<< starting homebrew set up >>>>\n"
 brew install httpie
 brew install bat
 
+brew install --no-quarantine iterm2
 brew install --no-quarantine google-chrome
 brew install --no-quarantine visual-studio-code

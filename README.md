@@ -15,3 +15,4 @@ Streamlining Device Recovery
 - .zshrc
 - Git (config and SSH)
 - Homebrew Installation
+- if brewfile.lock.json is needed run **brew bundle install**

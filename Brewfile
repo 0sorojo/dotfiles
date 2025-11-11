@@ -1,4 +1,5 @@
 brew "bat"
+brew "git"
 brew "httpie"
 cask "google-chrome"
 cask "iterm2"
